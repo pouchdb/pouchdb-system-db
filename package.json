@@ -21,7 +21,7 @@
 	"dependencies": {
 		"pouchdb-security": "^1.0.0",
 		"pouchdb-wrappers": "^1.0.0",
-		"pouchdb-plugin-error": "^1.0.0",
+		"pouchdb-plugin-error": "^1.0.1",
 		"pouchdb-changeslike-wrapper": "^1.0.0"
 	}
 }
